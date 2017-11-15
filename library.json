@@ -1,0 +1,16 @@
+{
+    "name": "LCD12864RSPI",
+    "version": "1.0.0",
+    "keywords": "LCD12864",
+    "description": "基于ST7920控制器的LCD12864液晶显示屏驱动库-采用SPI通讯方式",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/LCD12864RSPI.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
